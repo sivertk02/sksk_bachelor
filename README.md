@@ -15,6 +15,8 @@ Fremgangsmåte:
 
 OBS! På grunn av størrelsen på datasettene kreves det veldig mye datakraft for å kjøre opptreningsprogrammene. En maskinklynge ble derfor brukt til dette i bacheloroppgaven
 Kan søke tilgang med link: https://www.ex3.simula.no/access
+For testing og kjøring av maskinlæringsmodellene kan "...mini.json" brukes
 
 
 
+ 
