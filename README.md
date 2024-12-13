@@ -7,9 +7,9 @@ Fremgangsmåte:
 2. Del opp i 3 sekunders segmenter: Preprocess/trim.py
 3. Fordel på subsett: Preprocess/split_dataset.py
 4. Bruk ønsket augmenteringsmetode (alternativt)
-- konstant frekvensforksyvning: Preprocess/wav_ip.py
+- konstant frekvensforksyvning: Preprocess/wav_ps.py
 - tidsavhengig frekvensforskyvning: Preprocess/wav_ips.py
-5. Konverter fra wav. til .json med cqt-transform: Preprocess/was_til_cqt.py
+5. Konverter fra wav. til .json med cqt-transform: Preprocess/was_to_cqt.py
 - RNN: Train/RNN.py
 - CNN: Train/RNN.py
 
